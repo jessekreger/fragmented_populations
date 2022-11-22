@@ -1,5 +1,3 @@
-# fragmented_populations
-
 # Sample code for "The role of migration in mutant evolution in fragmented populations"
 
 # Please direct questions to Jesse Kreger (jessekre@usc.edu)
