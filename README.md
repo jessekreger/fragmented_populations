@@ -1,5 +1,17 @@
 # fragmented_populations
 
-# Sample code for "The role of migration in mutant evolution in fragmented populations", located here: https://www.biorxiv.org/content/10.1101/2021.06.09.447669v1 
+# Sample code for "The role of migration in mutant evolution in fragmented populations"
 
 # Please direct questions to Jesse Kreger (jessekre@usc.edu)
+
+### Overview 
+This repository contains code used in the analysis of mutant evolution in fragemented populations. All code is written in Mathematica (version 12.0.0.0). Data used in the analysis is included in the file (experimental data.xlsx).
+
+### Requirements 
+ - Mathematica
+
+### Contributors
+<a href="https://github.com/maclean-lab/ModelingMDSCs/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=maclean-lab/ModelingMDSCs" />
+</a>
+
