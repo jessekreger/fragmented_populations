@@ -3,10 +3,11 @@
 # Please direct questions to Jesse Kreger (jessekre@usc.edu)
 
 ### Overview 
-This repository contains code used in the analysis of mutant evolution in fragemented populations. All code is written in Mathematica (version 12.0.0.0). Data used in the analysis is included in the file (experimental data.xlsx).
+This repository contains code used in the analysis of mutant evolution in fragemented populations. Code is written in Mathematica (version 12.0.0.0) and C++. Data used in the analysis is included in the file (experimental data.xlsx).
 
 ### Requirements 
  - Mathematica
+ - C++
 
 ### Contributors
 <a href="https://github.com/maclean-lab/ModelingMDSCs/graphs/contributors">
